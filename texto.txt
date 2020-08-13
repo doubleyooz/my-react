@@ -1,0 +1,30 @@
+Curso o técnico de informática - IFPB e também curso Ciência da Computação - UEPB.
+
+Prometo dedicação total ao projeto contratado, feedbacks diários e manutenção/atualização do software.
+
+Conhecimentos:
+
+(Por avançado me refiro conhecer o funcionamento da linguagem/plataforma por detrás dos panos).
+
+Flutter: INTERMEDIÁRIO/AVANÇADO;
+Android Nativo: INTERMEDIÁRIO/AVANÇADO;
+
+Java: AVANÇADO;
+Dart: INTERMEDIÁRIO;
+
+FireBase: BÁSICO/INTERMEDIÁRIO
+MongoDb: BÁSICO/INTERMEDIÁRIO
+MySql: BÁSICO/INTERMEDIÁRIO
+
+Escolho Flutter como framework mobile devido sua versatilidade, desempenho e liberdade. De fato aposto nessa Stack para o futuro do mercado mobile. Também tenho experiência com desenvolvimento Nativo Android, apesar de desgostar da plataforma sou sim capaz de desenvolver nela.
+Resumo da experiência profissional:
+https://www.hostinger.com.br/tutoriais/o-que-e-react-javascript
+
+https://www.devmedia.com.br/o-que-e-flutter/40324
+
+Ainda estou trabalhando no meu github
+https://github.com/WaifuForever
+
+São três anos de programação, dois deles focados puramente em Java e o último focado em programação web/mobile.
+
+Trabalhei como Tester Voluntário por 4 meses no Núcleo Nutes (UEPB) Utilizando Junit/Selenium 18 horas/semanais.
